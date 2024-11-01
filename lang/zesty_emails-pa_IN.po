@@ -1,0 +1,563 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Zesty Email Designer - Custom Email Template Designs for "
+"WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-04 15:21+0000\n"
+"PO-Revision-Date: 2022-04-04 15:50+0000\n"
+"Last-Translator: \n"
+"Language-Team: Punjabi\n"
+"Language: pa_IN\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.1; wp-5.9.2\n"
+"X-Domain: zesty_emails"
+
+#: functions/builder-functions.php:308 functions/builder-functions.php:311
+msgid "Alignment"
+msgstr "ਅਲਮੀਨੀਅਮ"
+
+#: functions/builder-functions.php:281
+msgid "Auto"
+msgstr "ਮਸ਼ੀਨ"
+
+#: functions/builder-functions.php:262
+msgid "Background"
+msgstr "ਫੀਚਰ"
+
+#: functions/builder-functions.php:270
+msgid "Background Image"
+msgstr "ਫੇਸਬੁੱਕ"
+
+#: functions/builder-functions.php:292
+msgid "Background Position"
+msgstr "ਬੈਕਗਰਾਊਂਡ ਸਥਿਤੀ"
+
+#: functions/builder-functions.php:285
+msgid "Background Repeat"
+msgstr "ਬੈਕਗਰਾਊਂਡ ਦੁਹਰਾਓ"
+
+#: functions/builder-functions.php:279
+msgid "Background Size"
+msgstr "ਫੀਚਰ ਆਕਾਰ"
+
+#: functions/builder-functions.php:67
+msgid "Block View"
+msgstr "ਟੈਟੂ ਚਿੱਤਰ"
+
+#: functions/builder-functions.php:318
+msgid "Border"
+msgstr "ਮੱਛੀ"
+
+#: functions/builder-functions.php:344
+msgid "Border Color"
+msgstr "ਲੰਬਾਈ ਰੰਗ"
+
+#: functions/builder-functions.php:338
+msgid "Border Radius"
+msgstr "ਲਾਈਨ RADIOS"
+
+#: functions/builder-functions.php:322
+msgid "Border Style"
+msgstr "ਲਾਈਨ ਸਟੀਲ"
+
+#: functions/builder-functions.php:332
+msgid "Border Width"
+msgstr "ਲੰਬੇ ਲੰਬੇ"
+
+#: functions/builder-functions.php:295 functions/builder-functions.php:356
+#: functions/builder-functions.php:449 functions/builder-functions.php:480
+#: functions/builder-functions.php:514 functions/builder-functions.php:612
+#: functions/builder-functions.php:637
+msgid "Bottom"
+msgstr "ਬਾਲਗ"
+
+#: functions/builder-functions.php:87
+msgid "Button"
+msgstr "ਬੂਟ"
+
+#: functions/builder-functions.php:298
+msgid "Center"
+msgstr "ਕੰਟਰੋਲ"
+
+#: functions/builder-functions.php:381
+msgid "Class Name"
+msgstr "ਕਲਾਸ ਦਾ ਨਾਮ"
+
+#: functions/builder-functions.php:669
+msgid "Close"
+msgstr "ਆਵਾਜਾਈ"
+
+#: functions/builder-functions.php:267
+msgid "Color"
+msgstr "ਰੌਸ਼ਨੀ"
+
+#: functions/builder-functions.php:149
+msgid "Column Layout"
+msgstr "ਕਾਲਮ ਲੇਆਉਟ"
+
+#: functions/builder-functions.php:350
+msgid "Columns"
+msgstr "ਕੂਮਨ"
+
+#: admin/emails-page.php:56
+msgid "Completed Order"
+msgstr "ਕਾਪੀਰਾਈਟ"
+
+#: functions/builder-functions.php:282
+msgid "Contain"
+msgstr "ਕੰਟੇਨਰ"
+
+#: functions/builder-functions.php:168 functions/builder-functions.php:172
+#: functions/builder-functions.php:175
+msgid "Content"
+msgstr "ਮਿੱਠੇ"
+
+#: functions/builder-functions.php:283
+msgid "Cover"
+msgstr "ਕਾਪਿਅਰ"
+
+#: plugin.php:167 functions/builder-functions.php:68
+msgid "Custom CSS"
+msgstr "ਕੰਸਾਈਡ CSS"
+
+#: admin/emails-page.php:21
+msgid "Customer"
+msgstr "ਗਾਹਕ"
+
+#: admin/emails-page.php:69
+msgid "Customer Note"
+msgstr "ਗਾਹਕ ਟਿੱਪਣੀ"
+
+#: functions/builder-functions.php:410
+msgid "Dark"
+msgstr "ਟੈਟੂ"
+
+#: plugin.php:29
+msgid "Dashboard"
+msgstr "ਡੈਸ਼ਬੋਰਡ"
+
+#: functions/builder-functions.php:327
+msgid "Dashed"
+msgstr "ਸ਼ੇਅਰ"
+
+#: admin/options-page.php:15
+msgid "Default Test Email Address"
+msgstr "ਡਿਫਾਲਟ ਟੈਸਟ ਈਮੇਲ ਐਡਰੈੱਸ"
+
+#: functions/builder-functions.php:169
+msgid "Design"
+msgstr "ਡਿਜ਼ਾਇਨ"
+
+#. Description of the plugin
+msgid ""
+"Design custom email templates for WooCommerce that are sent out after order "
+"completion and more."
+msgstr ""
+"ਵੂਕਾਮਰਸ ਲਈ ਕਸਟਮ ਈਮੇਲ ਟੈਂਪਲੇਟਸ ਡਿਜ਼ਾਈਨ ਕਰੋ ਜੋ ਆਰਡਰ ਦੇ ਪੂਰਾ ਹੋਣ ਅਤੇ ਹੋਰ ਬਹੁਤ "
+"ਕੁਝ ਤੋਂ ਬਾਅਦ ਭੇਜੇ ਜਾਂਦੇ ਹਨ।"
+
+#: functions/builder-functions.php:66
+msgid "Desktop View"
+msgstr "ਡਿਸਪਲੇਟ View"
+
+#: functions/builder-functions.php:93
+msgid "Divider"
+msgstr "ਡਾਇਰੈਕਸ਼ਨ"
+
+#: functions/builder-functions.php:326
+msgid "Dotted"
+msgstr "ਟੈਟੂ"
+
+#: plugin.php:156
+msgid "Download"
+msgstr "ਡਾਊਨਲੋਡ"
+
+#: admin/emails-page.php:22
+msgid "Edit"
+msgstr "ਕਾਪੀਰਾਈਟ"
+
+#: plugin.php:185
+msgid "Email Address"
+msgstr "ਇਲੈਕਟ੍ਰਾਨਿਕ ਐਡਰੱਸ"
+
+#: admin/emails-page.php:33
+msgid "Email Template"
+msgstr "ਈਮੇਲ ਟੈਂਪਲੇਟ"
+
+#: admin/emails-page.php:32
+msgid "Enable"
+msgstr "ਸਹਾਇਕ"
+
+#: functions/builder-functions.php:52
+msgid "Export Template"
+msgstr "ਟੈਂਪਲੇਟ ਐਕਸਪੋਰਟ"
+
+#: functions/builder-functions.php:222
+msgid "Facebook URL "
+msgstr "ਫੇਸਬੁੱਕ URL"
+
+#: functions/builder-functions.php:585
+msgid "Font"
+msgstr "ਫੰਕਸ਼ਨ"
+
+#: functions/builder-functions.php:595
+msgid "Font Color"
+msgstr "ਚਿੱਤਰ ਫਾਰਮ"
+
+#: functions/builder-functions.php:579
+msgid "Font Size"
+msgstr "ਚਿੱਤਰ ਆਕਾਰ"
+
+#: functions/builder-functions.php:572
+msgid "Font Style"
+msgstr "ਚਿੱਤਰ ਸਟੀਲ"
+
+#: admin/options-page.php:10
+msgid "General Options"
+msgstr "ਵਿਕਲਪ ਨੂੰ"
+
+#: functions/builder-functions.php:99 functions/builder-functions.php:364
+msgid "Header"
+msgstr "ਕਾਪੀਅਰ"
+
+#: functions/builder-functions.php:536
+msgid "Header Cell Background Color"
+msgstr "ਹੈਡਰ ਸੈੱਲ ਬੈਕਗਰਾਊਂਡ ਰੰਗ"
+
+#: functions/builder-functions.php:544
+msgid "Header Cell Border Color"
+msgstr "ਹੈਡਰ ਸੈੱਲ ਬਾਰਡਰ ਰੰਗ"
+
+#: functions/builder-functions.php:540
+msgid "Header Cell Font Color"
+msgstr "ਹੈਂਡਰ ਸੈੱਲ ਫੋਂਟ ਰੰਗ"
+
+#: functions/builder-functions.php:361
+msgid "Header Type"
+msgstr "ਹੈੱਡਰ ਕਿਸਮ"
+
+#: plugin.php:31 admin/admin-side-menu.php:10 admin/admin-side-menu.php:10
+msgid "Help"
+msgstr "ਮਦਦ"
+
+#. URI of the plugin
+msgid "https://zestyplugins.com"
+msgstr "https: //zestyplugins.com"
+
+#: functions/builder-functions.php:394
+msgid "Icon Alignment"
+msgstr "ਆਈਕਾਨ ਅਲਮੀਨ"
+
+#: functions/builder-functions.php:415
+msgid "Icon Background Color"
+msgstr "ਆਈਕਾਨ ਫੇਸਬੁੱਕ"
+
+#: functions/builder-functions.php:407
+msgid "Icon Color"
+msgstr "ਆਈਕਾਨ ਰੰਗ"
+
+#: functions/builder-functions.php:390
+msgid "Icon Designs"
+msgstr "ਆਈਕਾਨ ਡਿਜ਼ਾਇਨ"
+
+#: functions/builder-functions.php:401
+msgid "Icon Size"
+msgstr "ਆਈਕਾਨ ਦਾ ਆਕਾਰ"
+
+#: functions/builder-functions.php:219
+msgid "Icons"
+msgstr "ਆਈਕਾਨ"
+
+#: functions/builder-functions.php:377
+msgid "ID"
+msgstr "ਟਾਈਮ"
+
+#: functions/builder-functions.php:105 functions/builder-functions.php:210
+#: functions/builder-functions.php:266
+msgid "Image"
+msgstr "ਚਿੱਤਰ"
+
+#: functions/builder-functions.php:213
+msgid "Image URL"
+msgstr "ਚਿੱਤਰ URL"
+
+#: functions/builder-functions.php:51
+msgid "Import Template"
+msgstr "ਟੈਂਪਲੇਟ ਇੰਪੋਰਟ ਕਰੋ"
+
+#: functions/builder-functions.php:82
+msgid "Insert Element"
+msgstr "ਤੱਤ ਸ਼ਾਮਲ"
+
+#: functions/builder-functions.php:226
+msgid "Instagram URL"
+msgstr "Instagram URL"
+
+#: functions/builder-functions.php:296 functions/builder-functions.php:453
+#: functions/builder-functions.php:484 functions/builder-functions.php:518
+#: functions/builder-functions.php:616 functions/builder-functions.php:641
+msgid "Left"
+msgstr "ਲਾਈਨ"
+
+#: functions/builder-functions.php:409
+msgid "Light"
+msgstr "ਚੌੜਾਈ"
+
+#: functions/builder-functions.php:203 functions/builder-functions.php:206
+msgid "Link"
+msgstr "ਲੰਬਾਈ"
+
+#: functions/builder-functions.php:230
+msgid "LinkedIn URL"
+msgstr "LinkedIn URL"
+
+#: plugin.php:135 plugin.php:143
+msgid "Loading"
+msgstr "ਲੋਡਿੰਗ"
+
+#: functions/builder-functions.php:627
+msgid "Margin"
+msgstr "ਮਾਰਕੀਟ"
+
+#: functions/builder-functions.php:656
+msgid "Max Width"
+msgstr "ਮੈਕਸ ਗਾਈਡ"
+
+#: functions/builder-functions.php:355
+msgid "Middle"
+msgstr "ਮੱਛੀ"
+
+#: functions/builder-functions.php:63
+msgid "Mobile View"
+msgstr "ਮੋਬਾਈਲ ਟਿੱਪਣੀ"
+
+#: admin/emails-page.php:81
+msgid "New Account"
+msgstr "ਨ੍ਯੂ ਫੋਨ"
+
+#: functions/builder-functions.php:287
+msgid "No Repeat"
+msgstr "ਟੈਟੂ"
+
+#: functions/builder-functions.php:324
+msgid "None"
+msgstr "ਨਹੀ ਹੈ"
+
+#: plugin.php:30 admin/admin-side-menu.php:9 admin/admin-side-menu.php:9
+msgid "Options"
+msgstr "ਵਿਕਲਪ"
+
+#: admin/emails-page.php:42
+msgid "Order on Hold"
+msgstr "ਕੰਟਰੋਲ ਕਰਨ ਲਈ"
+
+#: functions/builder-functions.php:602
+msgid "Padding"
+msgstr "ਪੇਡਿੰਗ"
+
+#: functions/builder-functions.php:234
+msgid "Pinterest URL"
+msgstr "Pinterest URL"
+
+#: admin/emails-page.php:49
+msgid "Processing Order"
+msgstr "ਕਾਰਵਾਈ ਕਰਨ ਲਈ"
+
+#: admin/emails-page.php:34
+msgid "Recipient"
+msgstr "ਟੈਟੂ"
+
+#: functions/builder-functions.php:238
+msgid "Reddit URL"
+msgstr "Reddit ਦੇ URL"
+
+#: functions/builder-functions.php:54
+msgid "Redo"
+msgstr "ਰੀਡ"
+
+#: admin/emails-page.php:63
+msgid "Refunded Order"
+msgstr "ਕਾਪੀਰਾਈਟ"
+
+#: functions/builder-functions.php:288 functions/builder-functions.php:289
+#: functions/builder-functions.php:290
+msgid "Repeat"
+msgstr "ਟਿੱਪਣੀ"
+
+#: admin/emails-page.php:75
+msgid "Reset Password"
+msgstr "ਨੈੱਟਵਰਕ"
+
+#: functions/builder-functions.php:297 functions/builder-functions.php:457
+#: functions/builder-functions.php:488 functions/builder-functions.php:522
+#: functions/builder-functions.php:620 functions/builder-functions.php:645
+msgid "Right"
+msgstr "ਸਹੀ ਹੈ"
+
+#: functions/builder-functions.php:55 functions/builder-functions.php:668
+msgid "Save"
+msgstr "ਸਬੂਤ"
+
+#: plugin.php:145
+msgid "Saving"
+msgstr "ਸਬੂਤ"
+
+#: plugin.php:181
+msgid "Send a Test Email"
+msgstr "ਟੈਸਟ ਟੈਸਟ ਟੈਸਟ"
+
+#: functions/builder-functions.php:652
+msgid "Sizing"
+msgstr "ਸਾਈਜ਼"
+
+#: functions/builder-functions.php:111
+msgid "Social"
+msgstr "ਸੰਯੁਕਤ"
+
+#: functions/builder-functions.php:325
+msgid "Solid"
+msgstr "ਸਟੀਲ"
+
+#: functions/builder-functions.php:599
+msgid "Spacing"
+msgstr "ਸਵਿੱਖ"
+
+#: functions/builder-functions.php:548
+msgid "Table Cell Background Color"
+msgstr "ਟੇਬਲ ਸੈੱਲ ਬੈਕਗਰਾਊਂਡ ਰੰਗ"
+
+#: functions/builder-functions.php:556
+msgid "Table Cell Border Color"
+msgstr "ਟੇਬਲ ਸੈੱਲ ਬਾਰਡਰ ਰੰਗ"
+
+#: functions/builder-functions.php:530
+msgid "Table Cell Border Width"
+msgstr "ਟੇਬਲ ਸੈੱਲ ਬਾਰਡਰ ਚੌੜਾਈ"
+
+#: functions/builder-functions.php:552
+msgid "Table Cell Font Color"
+msgstr "ਟੇਬਲ ਸੈੱਲ ਫੋਂਟ ਰੰਗ"
+
+#: functions/builder-functions.php:504
+msgid "Table Cell Padding"
+msgstr "ਟੈਟੂ ਪੇਡਿੰਗ"
+
+#: functions/builder-functions.php:420
+msgid "Table Design"
+msgstr "ਟੈਟੂ ਡਿਜ਼ਾਈਨ"
+
+#: functions/builder-functions.php:497
+msgid "Table Header Border Width"
+msgstr "ਟੇਬਲ ਹੈੱਡਰ ਬਾਰਡਰ ਚੌੜਾਈ"
+
+#: functions/builder-functions.php:470
+msgid "Table Header Padding"
+msgstr "ਟੇਬਲ ਹੈੱਡਰ ਪੈਡਿੰਗ"
+
+#: functions/builder-functions.php:64
+msgid "Tablet View"
+msgstr "ਟੈਟੂ ਚਿੱਤਰ"
+
+#: functions/builder-functions.php:117 functions/builder-functions.php:196
+#: functions/builder-functions.php:199
+msgid "Text"
+msgstr "ਟਿੱਪਣੀ"
+
+#: functions/builder-functions.php:565
+msgid "Text Alignment"
+msgstr "ਟੈਕਸਟ ਇਕਸਾਰਤਾ"
+
+#: admin/options-page.php:16
+msgid "The default email address you'd like to have test emails sent to"
+msgstr "ਇਲੈਕਟ੍ਰਾਨਿਕ ਇਲੈਕਟ੍ਰਾਨਿਕ ਇਲੈਕਟ੍ਰਾਨਿਕ ਇਲੈਕਟ੍ਰਾਨਿਕ ਇਲੈਕਟ੍ਰਾਨਿਕ"
+
+#: functions/builder-functions.php:242
+msgid "TikTok URL"
+msgstr "TikTok URL"
+
+#: functions/builder-functions.php:424
+msgid "Title Alignment"
+msgstr "ਟਾਈਟਲ ਇਕਸਾਰਤਾ"
+
+#: functions/builder-functions.php:465
+msgid "Title Color"
+msgstr "ਟੈਟੂ ਰੰਗ"
+
+#: functions/builder-functions.php:439
+msgid "Title Padding"
+msgstr "ਟਾਈਟਲ ਪੈਡਿੰਗ"
+
+#: functions/builder-functions.php:432
+msgid "Title Size"
+msgstr "ਟੈਟੂ ਆਕਾਰ"
+
+#: functions/builder-functions.php:294 functions/builder-functions.php:354
+#: functions/builder-functions.php:445 functions/builder-functions.php:476
+#: functions/builder-functions.php:510 functions/builder-functions.php:608
+#: functions/builder-functions.php:633
+msgid "Top"
+msgstr "ਟਿੱਪਣੀ"
+
+#: functions/builder-functions.php:246
+msgid "Tumblr URL"
+msgstr "Tumblr URL"
+
+#: functions/builder-functions.php:250
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+#: functions/builder-functions.php:561
+msgid "Typography"
+msgstr "ਟਾਈਪੋਰੇਸ਼ਨ"
+
+#: functions/builder-functions.php:53
+msgid "Undo"
+msgstr "ਨੈਟ"
+
+#: functions/builder-functions.php:353
+msgid "Vertical Alignment"
+msgstr "ਵਰਟੀਕਲ ਇਕਸਾਰਤਾ"
+
+#: functions/builder-functions.php:254
+msgid "Vimeo URL"
+msgstr "Vimeo URL"
+
+#: functions/builder-functions.php:662
+msgid "Width"
+msgstr "ਗੈਰ"
+
+#: functions/builder-functions.php:123
+msgid "Woo Customer Address"
+msgstr "Woo ਗਾਹਕ ਐਡਰੱਸ"
+
+#: functions/builder-functions.php:129
+msgid "Woo Customer Note"
+msgstr "Woo ਗਾਹਕ ਨਿੱਜੀ"
+
+#: functions/builder-functions.php:135
+msgid "Woo Order Details"
+msgstr "Woo ਟਿੱਪਣੀ"
+
+#: functions/builder-functions.php:141
+msgid "Woo Shop Address"
+msgstr "Woo Shop ਟੈਟੂ"
+
+#: plugin.php:152
+msgid "Your Template is Ready to Download"
+msgstr "ਆਪਣੇ Template ਨੂੰ ਡਾਊਨਲੋਡ ਕਰਨ ਲਈ ਤਿਆਰ ਹੈ"
+
+#: functions/builder-functions.php:258
+msgid "YouTube URL"
+msgstr "YouTube URL"
+
+#. Name of the plugin
+msgid "Zesty Email Designer - Custom Email Template Designs for WooCommerce"
+msgstr "ਜ਼ੈਸਟੀ ਈਮੇਲ ਡਿਜ਼ਾਈਨਰ - ਵੂਕਾਮਰਸ ਲਈ ਕਸਟਮ ਈਮੇਲ ਟੈਂਪਲੇਟ ਡਿਜ਼ਾਈਨ"
+
+#. Author of the plugin
+msgid "Zesty Plugins"
+msgstr "Zesty Plugins"

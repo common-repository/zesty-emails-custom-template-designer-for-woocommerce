@@ -1,0 +1,22 @@
+#builder {
+    container-name: demo;
+    container-type: inline-size;
+}
+
+/* @container relies on JS shim */
+@container demo (max-width: 980px) {
+    .bld-2, .bld-2:last-of-type, .bld-3, .bld-3:last-of-type, .bld-4, .bld-4:last-of-type, .bld-6, .bld-6:last-of-type, .bld-8, .bld-8:last-of-type {
+        float: none;
+        width: 100%;
+        margin-right: 0;
+    }
+}
+
+/* Media Queries */
+@media screen and (max-width: 980px) {
+    .bld-2, .bld-2:last-of-type, .bld-3, .bld-3:last-of-type, .bld-4, .bld-4:last-of-type, .bld-6, .bld-6:last-of-type, .bld-8, .bld-8:last-of-type {
+        float: none;
+        width: 100%;
+        margin-right: 0;
+    }
+}

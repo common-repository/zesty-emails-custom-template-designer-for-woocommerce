@@ -1,0 +1,567 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Zesty Email Designer - Custom Email Template Designs for "
+"WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-04 15:21+0000\n"
+"PO-Revision-Date: 2022-04-04 15:33+0000\n"
+"Last-Translator: \n"
+"Language-Team: French (France)\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.1; wp-5.9.2\n"
+"X-Domain: zesty_emails"
+
+#: functions/builder-functions.php:308 functions/builder-functions.php:311
+msgid "Alignment"
+msgstr "Alignement"
+
+#: functions/builder-functions.php:281
+msgid "Auto"
+msgstr "Automatique"
+
+#: functions/builder-functions.php:262
+msgid "Background"
+msgstr "Historique"
+
+#: functions/builder-functions.php:270
+msgid "Background Image"
+msgstr "Image de fond"
+
+#: functions/builder-functions.php:292
+msgid "Background Position"
+msgstr "Situation générale"
+
+#: functions/builder-functions.php:285
+msgid "Background Repeat"
+msgstr "Rappel des faits"
+
+#: functions/builder-functions.php:279
+msgid "Background Size"
+msgstr "Taille du fond"
+
+#: functions/builder-functions.php:67
+msgid "Block View"
+msgstr "Vue des blocs"
+
+#: functions/builder-functions.php:318
+msgid "Border"
+msgstr "Frontière"
+
+#: functions/builder-functions.php:344
+msgid "Border Color"
+msgstr "Couleur de la bordure"
+
+#: functions/builder-functions.php:338
+msgid "Border Radius"
+msgstr "Rayon de la frontière"
+
+#: functions/builder-functions.php:322
+msgid "Border Style"
+msgstr "Style de bordure"
+
+#: functions/builder-functions.php:332
+msgid "Border Width"
+msgstr "Largeur des frontières"
+
+#: functions/builder-functions.php:295 functions/builder-functions.php:356
+#: functions/builder-functions.php:449 functions/builder-functions.php:480
+#: functions/builder-functions.php:514 functions/builder-functions.php:612
+#: functions/builder-functions.php:637
+msgid "Bottom"
+msgstr "En bas"
+
+#: functions/builder-functions.php:87
+msgid "Button"
+msgstr "Bouton"
+
+#: functions/builder-functions.php:298
+msgid "Center"
+msgstr "Centre"
+
+#: functions/builder-functions.php:381
+msgid "Class Name"
+msgstr "Nom de la classe"
+
+#: functions/builder-functions.php:669
+msgid "Close"
+msgstr "Fermer"
+
+#: functions/builder-functions.php:267
+msgid "Color"
+msgstr "Couleur"
+
+#: functions/builder-functions.php:149
+msgid "Column Layout"
+msgstr "Mise en page des colonnes"
+
+#: functions/builder-functions.php:350
+msgid "Columns"
+msgstr "Colonnes"
+
+#: admin/emails-page.php:56
+msgid "Completed Order"
+msgstr "Ordre terminé"
+
+#: functions/builder-functions.php:282
+msgid "Contain"
+msgstr "Contient"
+
+#: functions/builder-functions.php:168 functions/builder-functions.php:172
+#: functions/builder-functions.php:175
+msgid "Content"
+msgstr "Contenu"
+
+#: functions/builder-functions.php:283
+msgid "Cover"
+msgstr "Couverture"
+
+#: plugin.php:167 functions/builder-functions.php:68
+msgid "Custom CSS"
+msgstr "CSS personnalisé"
+
+#: admin/emails-page.php:21
+msgid "Customer"
+msgstr "Client"
+
+#: admin/emails-page.php:69
+msgid "Customer Note"
+msgstr "REMARQUE DU Client"
+
+#: functions/builder-functions.php:410
+msgid "Dark"
+msgstr "Ténébreux"
+
+#: plugin.php:29
+msgid "Dashboard"
+msgstr "Tableau de bord"
+
+#: functions/builder-functions.php:327
+msgid "Dashed"
+msgstr "Déchiqueté"
+
+#: admin/options-page.php:15
+msgid "Default Test Email Address"
+msgstr "Test par défaut Adresse électronique"
+
+#: functions/builder-functions.php:169
+msgid "Design"
+msgstr "Conception"
+
+#. Description of the plugin
+msgid ""
+"Design custom email templates for WooCommerce that are sent out after order "
+"completion and more."
+msgstr ""
+"Concevoir des modèles d'email personnalisés pour Woocommerce qui sont "
+"envoyés après l'achèvement de la commande et plus encore."
+
+#: functions/builder-functions.php:66
+msgid "Desktop View"
+msgstr "Vue du bureau"
+
+#: functions/builder-functions.php:93
+msgid "Divider"
+msgstr "Diviseur"
+
+#: functions/builder-functions.php:326
+msgid "Dotted"
+msgstr "Agrafé"
+
+#: plugin.php:156
+msgid "Download"
+msgstr "Télécharger"
+
+#: admin/emails-page.php:22
+msgid "Edit"
+msgstr "Modifier"
+
+#: plugin.php:185
+msgid "Email Address"
+msgstr "Adresse électronique"
+
+#: admin/emails-page.php:33
+msgid "Email Template"
+msgstr "Modèle de courriel"
+
+#: admin/emails-page.php:32
+msgid "Enable"
+msgstr "Activer"
+
+#: functions/builder-functions.php:52
+msgid "Export Template"
+msgstr "Modèle d'exportation"
+
+#: functions/builder-functions.php:222
+msgid "Facebook URL "
+msgstr "Facebook URL"
+
+#: functions/builder-functions.php:585
+msgid "Font"
+msgstr "Police"
+
+#: functions/builder-functions.php:595
+msgid "Font Color"
+msgstr "Couleur de la police"
+
+#: functions/builder-functions.php:579
+msgid "Font Size"
+msgstr "Taille de la police"
+
+#: functions/builder-functions.php:572
+msgid "Font Style"
+msgstr "Style de police"
+
+#: admin/options-page.php:10
+msgid "General Options"
+msgstr "Options générales"
+
+#: functions/builder-functions.php:99 functions/builder-functions.php:364
+msgid "Header"
+msgstr "En-tête"
+
+#: functions/builder-functions.php:536
+msgid "Header Cell Background Color"
+msgstr "Couleur d'arrière-plan de la cellule en-tête"
+
+#: functions/builder-functions.php:544
+msgid "Header Cell Border Color"
+msgstr "Couleur de la bordure de la cellule en-tête"
+
+#: functions/builder-functions.php:540
+msgid "Header Cell Font Color"
+msgstr "En-tête de la cellule Couleur de la police"
+
+#: functions/builder-functions.php:361
+msgid "Header Type"
+msgstr "Type d'en-tête"
+
+#: plugin.php:31 admin/admin-side-menu.php:10 admin/admin-side-menu.php:10
+msgid "Help"
+msgstr "Aide"
+
+#. URI of the plugin
+msgid "https://zestyplugins.com"
+msgstr "https: //zestyplugins.com"
+
+#: functions/builder-functions.php:394
+msgid "Icon Alignment"
+msgstr "Alignement des icônes"
+
+#: functions/builder-functions.php:415
+msgid "Icon Background Color"
+msgstr "Couleur de fond de l'icône"
+
+#: functions/builder-functions.php:407
+msgid "Icon Color"
+msgstr "Couleur de l'icône"
+
+#: functions/builder-functions.php:390
+msgid "Icon Designs"
+msgstr "Conceptions d'icônes"
+
+#: functions/builder-functions.php:401
+msgid "Icon Size"
+msgstr "Taille de l'icône"
+
+#: functions/builder-functions.php:219
+msgid "Icons"
+msgstr "Icônes"
+
+#: functions/builder-functions.php:377
+msgid "ID"
+msgstr "Idée"
+
+#: functions/builder-functions.php:105 functions/builder-functions.php:210
+#: functions/builder-functions.php:266
+msgid "Image"
+msgstr "Image"
+
+#: functions/builder-functions.php:213
+msgid "Image URL"
+msgstr "Image URL"
+
+#: functions/builder-functions.php:51
+msgid "Import Template"
+msgstr "Modèle d'importation"
+
+#: functions/builder-functions.php:82
+msgid "Insert Element"
+msgstr "Insérer un élément"
+
+#: functions/builder-functions.php:226
+msgid "Instagram URL"
+msgstr "Instagram URL"
+
+#: functions/builder-functions.php:296 functions/builder-functions.php:453
+#: functions/builder-functions.php:484 functions/builder-functions.php:518
+#: functions/builder-functions.php:616 functions/builder-functions.php:641
+msgid "Left"
+msgstr "Gauche"
+
+#: functions/builder-functions.php:409
+msgid "Light"
+msgstr "Lumière"
+
+#: functions/builder-functions.php:203 functions/builder-functions.php:206
+msgid "Link"
+msgstr "Lien"
+
+#: functions/builder-functions.php:230
+msgid "LinkedIn URL"
+msgstr "LinkedIn URL"
+
+#: plugin.php:135 plugin.php:143
+msgid "Loading"
+msgstr "Chargement"
+
+#: functions/builder-functions.php:627
+msgid "Margin"
+msgstr "Marge"
+
+#: functions/builder-functions.php:656
+msgid "Max Width"
+msgstr "Largeur maximale"
+
+#: functions/builder-functions.php:355
+msgid "Middle"
+msgstr "Moyenne"
+
+#: functions/builder-functions.php:63
+msgid "Mobile View"
+msgstr "Vue mobile"
+
+#: admin/emails-page.php:81
+msgid "New Account"
+msgstr "Nouveau compte"
+
+#: functions/builder-functions.php:287
+msgid "No Repeat"
+msgstr "Pas de répétition"
+
+#: functions/builder-functions.php:324
+msgid "None"
+msgstr "Aucune"
+
+#: plugin.php:30 admin/admin-side-menu.php:9 admin/admin-side-menu.php:9
+msgid "Options"
+msgstr "Options"
+
+#: admin/emails-page.php:42
+msgid "Order on Hold"
+msgstr "Ordre en attente"
+
+#: functions/builder-functions.php:602
+msgid "Padding"
+msgstr "Padding"
+
+#: functions/builder-functions.php:234
+msgid "Pinterest URL"
+msgstr "Pinterest URL"
+
+#: admin/emails-page.php:49
+msgid "Processing Order"
+msgstr "Ordre de traitement"
+
+#: admin/emails-page.php:34
+msgid "Recipient"
+msgstr "Bénéficiaire"
+
+#: functions/builder-functions.php:238
+msgid "Reddit URL"
+msgstr "Reddit URL"
+
+#: functions/builder-functions.php:54
+msgid "Redo"
+msgstr "Refaire"
+
+#: admin/emails-page.php:63
+msgid "Refunded Order"
+msgstr "Ordre remboursé"
+
+#: functions/builder-functions.php:288 functions/builder-functions.php:289
+#: functions/builder-functions.php:290
+msgid "Repeat"
+msgstr "Répéter"
+
+#: admin/emails-page.php:75
+msgid "Reset Password"
+msgstr "Réinitialiser le mot de passe"
+
+#: functions/builder-functions.php:297 functions/builder-functions.php:457
+#: functions/builder-functions.php:488 functions/builder-functions.php:522
+#: functions/builder-functions.php:620 functions/builder-functions.php:645
+msgid "Right"
+msgstr "Droite"
+
+#: functions/builder-functions.php:55 functions/builder-functions.php:668
+msgid "Save"
+msgstr "Enregistrer"
+
+#: plugin.php:145
+msgid "Saving"
+msgstr "Sauver"
+
+#: plugin.php:181
+msgid "Send a Test Email"
+msgstr "Envoyer un e-mail de test"
+
+#: functions/builder-functions.php:652
+msgid "Sizing"
+msgstr "Taille"
+
+#: functions/builder-functions.php:111
+msgid "Social"
+msgstr "Services sociaux"
+
+#: functions/builder-functions.php:325
+msgid "Solid"
+msgstr "Solide"
+
+#: functions/builder-functions.php:599
+msgid "Spacing"
+msgstr "Espacement"
+
+#: functions/builder-functions.php:548
+msgid "Table Cell Background Color"
+msgstr "Couleur de fond de la cellule de tableau"
+
+#: functions/builder-functions.php:556
+msgid "Table Cell Border Color"
+msgstr "Tableau couleur de la bordure des cellules"
+
+#: functions/builder-functions.php:530
+msgid "Table Cell Border Width"
+msgstr "Largeur de la bordure des cellules du tableau"
+
+#: functions/builder-functions.php:552
+msgid "Table Cell Font Color"
+msgstr "Couleur de la police de la cellule de tableau"
+
+#: functions/builder-functions.php:504
+msgid "Table Cell Padding"
+msgstr "Rembourrage des cellules de table"
+
+#: functions/builder-functions.php:420
+msgid "Table Design"
+msgstr "Conception du tableau"
+
+#: functions/builder-functions.php:497
+msgid "Table Header Border Width"
+msgstr "Largeur des bordures de l'en-tête de tableau"
+
+#: functions/builder-functions.php:470
+msgid "Table Header Padding"
+msgstr "Rembourrage de l'en-tête de la table"
+
+#: functions/builder-functions.php:64
+msgid "Tablet View"
+msgstr "Vue sur le comprimé"
+
+#: functions/builder-functions.php:117 functions/builder-functions.php:196
+#: functions/builder-functions.php:199
+msgid "Text"
+msgstr "Texte"
+
+#: functions/builder-functions.php:565
+msgid "Text Alignment"
+msgstr "Alignement du texte"
+
+#: admin/options-page.php:16
+msgid "The default email address you'd like to have test emails sent to"
+msgstr ""
+"L'adresse de courriel par défaut que vous souhaitez voir les e-mails de test "
+"envoyés à"
+
+#: functions/builder-functions.php:242
+msgid "TikTok URL"
+msgstr "TikTok URL"
+
+#: functions/builder-functions.php:424
+msgid "Title Alignment"
+msgstr "Alignement des titres"
+
+#: functions/builder-functions.php:465
+msgid "Title Color"
+msgstr "Couleur du titre"
+
+#: functions/builder-functions.php:439
+msgid "Title Padding"
+msgstr "Rembourrage du titre"
+
+#: functions/builder-functions.php:432
+msgid "Title Size"
+msgstr "Taille du titre"
+
+#: functions/builder-functions.php:294 functions/builder-functions.php:354
+#: functions/builder-functions.php:445 functions/builder-functions.php:476
+#: functions/builder-functions.php:510 functions/builder-functions.php:608
+#: functions/builder-functions.php:633
+msgid "Top"
+msgstr "Haut"
+
+#: functions/builder-functions.php:246
+msgid "Tumblr URL"
+msgstr "Tumblr URL"
+
+#: functions/builder-functions.php:250
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+#: functions/builder-functions.php:561
+msgid "Typography"
+msgstr "Typographie"
+
+#: functions/builder-functions.php:53
+msgid "Undo"
+msgstr "Annuler"
+
+#: functions/builder-functions.php:353
+msgid "Vertical Alignment"
+msgstr "Alignement vertical"
+
+#: functions/builder-functions.php:254
+msgid "Vimeo URL"
+msgstr "Vimeo URL"
+
+#: functions/builder-functions.php:662
+msgid "Width"
+msgstr "Largeur"
+
+#: functions/builder-functions.php:123
+msgid "Woo Customer Address"
+msgstr "Adresse du client Woo"
+
+#: functions/builder-functions.php:129
+msgid "Woo Customer Note"
+msgstr "Woo client NOTE"
+
+#: functions/builder-functions.php:135
+msgid "Woo Order Details"
+msgstr "Woo détails de la commande"
+
+#: functions/builder-functions.php:141
+msgid "Woo Shop Address"
+msgstr "Adresse du magasin Woo"
+
+#: plugin.php:152
+msgid "Your Template is Ready to Download"
+msgstr "Votre modèle est prêt à télécharger"
+
+#: functions/builder-functions.php:258
+msgid "YouTube URL"
+msgstr "YouTube URL"
+
+#. Name of the plugin
+msgid "Zesty Email Designer - Custom Email Template Designs for WooCommerce"
+msgstr ""
+"Zesty Email designer - modèles de modèles d'email personnalisés pour "
+"Woocommerce"
+
+#. Author of the plugin
+msgid "Zesty Plugins"
+msgstr "Plugins zestes"

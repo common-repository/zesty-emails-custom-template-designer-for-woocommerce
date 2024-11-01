@@ -1,0 +1,563 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Zesty Email Designer - Custom Email Template Designs for "
+"WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-04 15:21+0000\n"
+"PO-Revision-Date: 2022-04-04 15:39+0000\n"
+"Last-Translator: \n"
+"Language-Team: Hindi\n"
+"Language: hi_IN\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.1; wp-5.9.2\n"
+"X-Domain: zesty_emails"
+
+#: functions/builder-functions.php:308 functions/builder-functions.php:311
+msgid "Alignment"
+msgstr "संतुलन"
+
+#: functions/builder-functions.php:281
+msgid "Auto"
+msgstr "गाड़ी"
+
+#: functions/builder-functions.php:262
+msgid "Background"
+msgstr "पृष्ठभूमि"
+
+#: functions/builder-functions.php:270
+msgid "Background Image"
+msgstr "पृष्ठभूमि छवि"
+
+#: functions/builder-functions.php:292
+msgid "Background Position"
+msgstr "पृष्ठभूमि स्थिति"
+
+#: functions/builder-functions.php:285
+msgid "Background Repeat"
+msgstr "पृष्ठभूमि को दोहराएं"
+
+#: functions/builder-functions.php:279
+msgid "Background Size"
+msgstr "पृष्ठभूमि का आकार"
+
+#: functions/builder-functions.php:67
+msgid "Block View"
+msgstr "ब्लॉक दृष्टिकोण"
+
+#: functions/builder-functions.php:318
+msgid "Border"
+msgstr "सीमाएं"
+
+#: functions/builder-functions.php:344
+msgid "Border Color"
+msgstr "सीमा का रंग"
+
+#: functions/builder-functions.php:338
+msgid "Border Radius"
+msgstr "सीमा रेडिएशन"
+
+#: functions/builder-functions.php:322
+msgid "Border Style"
+msgstr "सीमा स्टाइल"
+
+#: functions/builder-functions.php:332
+msgid "Border Width"
+msgstr "सीमा चौड़ा"
+
+#: functions/builder-functions.php:295 functions/builder-functions.php:356
+#: functions/builder-functions.php:449 functions/builder-functions.php:480
+#: functions/builder-functions.php:514 functions/builder-functions.php:612
+#: functions/builder-functions.php:637
+msgid "Bottom"
+msgstr "नीचे"
+
+#: functions/builder-functions.php:87
+msgid "Button"
+msgstr "बटन"
+
+#: functions/builder-functions.php:298
+msgid "Center"
+msgstr "केंद्र"
+
+#: functions/builder-functions.php:381
+msgid "Class Name"
+msgstr "क्लास नाम"
+
+#: functions/builder-functions.php:669
+msgid "Close"
+msgstr "निकट"
+
+#: functions/builder-functions.php:267
+msgid "Color"
+msgstr "रंगों"
+
+#: functions/builder-functions.php:149
+msgid "Column Layout"
+msgstr "स्तंभ लेआउट"
+
+#: functions/builder-functions.php:350
+msgid "Columns"
+msgstr "स्तंभों"
+
+#: admin/emails-page.php:56
+msgid "Completed Order"
+msgstr "पूरा आदेश"
+
+#: functions/builder-functions.php:282
+msgid "Contain"
+msgstr "कंटेनर"
+
+#: functions/builder-functions.php:168 functions/builder-functions.php:172
+#: functions/builder-functions.php:175
+msgid "Content"
+msgstr "संतुष्टि"
+
+#: functions/builder-functions.php:283
+msgid "Cover"
+msgstr "कवर"
+
+#: plugin.php:167 functions/builder-functions.php:68
+msgid "Custom CSS"
+msgstr "सीएसएस के लिए"
+
+#: admin/emails-page.php:21
+msgid "Customer"
+msgstr "ग्राहक"
+
+#: admin/emails-page.php:69
+msgid "Customer Note"
+msgstr "ग्राहक नोट"
+
+#: functions/builder-functions.php:410
+msgid "Dark"
+msgstr "अंधेरा"
+
+#: plugin.php:29
+msgid "Dashboard"
+msgstr "डैशबोर्ड"
+
+#: functions/builder-functions.php:327
+msgid "Dashed"
+msgstr "डैश"
+
+#: admin/options-page.php:15
+msgid "Default Test Email Address"
+msgstr "डिफ़ॉल्ट टेस्ट ईमेल पते"
+
+#: functions/builder-functions.php:169
+msgid "Design"
+msgstr "डिजाइन"
+
+#. Description of the plugin
+msgid ""
+"Design custom email templates for WooCommerce that are sent out after order "
+"completion and more."
+msgstr ""
+"Woocommerce के लिए कस्टम ईमेल टेम्पलेट डिजाइन जो ऑर्डर पूरा होने के बाद भेजे "
+"जाते हैं और अधिक।"
+
+#: functions/builder-functions.php:66
+msgid "Desktop View"
+msgstr "डेस्कटॉप दृश्य"
+
+#: functions/builder-functions.php:93
+msgid "Divider"
+msgstr "विभाजित"
+
+#: functions/builder-functions.php:326
+msgid "Dotted"
+msgstr "ड्यूटी"
+
+#: plugin.php:156
+msgid "Download"
+msgstr "डाउनलोड करें"
+
+#: admin/emails-page.php:22
+msgid "Edit"
+msgstr "संपादित करें"
+
+#: plugin.php:185
+msgid "Email Address"
+msgstr "ईमेल पते"
+
+#: admin/emails-page.php:33
+msgid "Email Template"
+msgstr "ईमेल टेम्पलेट"
+
+#: admin/emails-page.php:32
+msgid "Enable"
+msgstr "सक्षम"
+
+#: functions/builder-functions.php:52
+msgid "Export Template"
+msgstr "निर्यात टेम्पलेट"
+
+#: functions/builder-functions.php:222
+msgid "Facebook URL "
+msgstr "Facebook के URL"
+
+#: functions/builder-functions.php:585
+msgid "Font"
+msgstr "फ़ॉन्ट"
+
+#: functions/builder-functions.php:595
+msgid "Font Color"
+msgstr "फ़ॉन्ट रंग"
+
+#: functions/builder-functions.php:579
+msgid "Font Size"
+msgstr "फ़ॉन्ट आकार"
+
+#: functions/builder-functions.php:572
+msgid "Font Style"
+msgstr "फ़ॉन्ट स्टाइल"
+
+#: admin/options-page.php:10
+msgid "General Options"
+msgstr "सामान्य विकल्पों"
+
+#: functions/builder-functions.php:99 functions/builder-functions.php:364
+msgid "Header"
+msgstr "शीर्षक"
+
+#: functions/builder-functions.php:536
+msgid "Header Cell Background Color"
+msgstr "हेडर सेल पृष्ठभूमि रंग"
+
+#: functions/builder-functions.php:544
+msgid "Header Cell Border Color"
+msgstr "हेडर सेल सीमा रंग"
+
+#: functions/builder-functions.php:540
+msgid "Header Cell Font Color"
+msgstr "हेडर सेल फ़ॉन्ट रंग"
+
+#: functions/builder-functions.php:361
+msgid "Header Type"
+msgstr "हेडर टाइप"
+
+#: plugin.php:31 admin/admin-side-menu.php:10 admin/admin-side-menu.php:10
+msgid "Help"
+msgstr "सहायता"
+
+#. URI of the plugin
+msgid "https://zestyplugins.com"
+msgstr "एचटीपीएस: //Zestyplugins.Com"
+
+#: functions/builder-functions.php:394
+msgid "Icon Alignment"
+msgstr "आइकन संरेखण"
+
+#: functions/builder-functions.php:415
+msgid "Icon Background Color"
+msgstr "आइकन पृष्ठभूमि रंग"
+
+#: functions/builder-functions.php:407
+msgid "Icon Color"
+msgstr "आइकन रंग"
+
+#: functions/builder-functions.php:390
+msgid "Icon Designs"
+msgstr "आइकन डिजाइन"
+
+#: functions/builder-functions.php:401
+msgid "Icon Size"
+msgstr "आइकन आकार"
+
+#: functions/builder-functions.php:219
+msgid "Icons"
+msgstr "आइकन"
+
+#: functions/builder-functions.php:377
+msgid "ID"
+msgstr "आईडी"
+
+#: functions/builder-functions.php:105 functions/builder-functions.php:210
+#: functions/builder-functions.php:266
+msgid "Image"
+msgstr "छवि"
+
+#: functions/builder-functions.php:213
+msgid "Image URL"
+msgstr "फोटो URL"
+
+#: functions/builder-functions.php:51
+msgid "Import Template"
+msgstr "आयात टेम्पलेट"
+
+#: functions/builder-functions.php:82
+msgid "Insert Element"
+msgstr "इमेज को शामिल करें"
+
+#: functions/builder-functions.php:226
+msgid "Instagram URL"
+msgstr "इंस्टाग्राम URL"
+
+#: functions/builder-functions.php:296 functions/builder-functions.php:453
+#: functions/builder-functions.php:484 functions/builder-functions.php:518
+#: functions/builder-functions.php:616 functions/builder-functions.php:641
+msgid "Left"
+msgstr "बाईं"
+
+#: functions/builder-functions.php:409
+msgid "Light"
+msgstr "प्रकाश"
+
+#: functions/builder-functions.php:203 functions/builder-functions.php:206
+msgid "Link"
+msgstr "लिंक्स"
+
+#: functions/builder-functions.php:230
+msgid "LinkedIn URL"
+msgstr "लिंक्डइन URL"
+
+#: plugin.php:135 plugin.php:143
+msgid "Loading"
+msgstr "लोड करें"
+
+#: functions/builder-functions.php:627
+msgid "Margin"
+msgstr "मार्जिन"
+
+#: functions/builder-functions.php:656
+msgid "Max Width"
+msgstr "मैक्स विंडो"
+
+#: functions/builder-functions.php:355
+msgid "Middle"
+msgstr "मध्यम"
+
+#: functions/builder-functions.php:63
+msgid "Mobile View"
+msgstr "मोबाइल दृश्य"
+
+#: admin/emails-page.php:81
+msgid "New Account"
+msgstr "नया खाता"
+
+#: functions/builder-functions.php:287
+msgid "No Repeat"
+msgstr "पुनरावृत्ति नहीं"
+
+#: functions/builder-functions.php:324
+msgid "None"
+msgstr "कोई नहीं"
+
+#: plugin.php:30 admin/admin-side-menu.php:9 admin/admin-side-menu.php:9
+msgid "Options"
+msgstr "विकल्पों"
+
+#: admin/emails-page.php:42
+msgid "Order on Hold"
+msgstr "पकड़ने का आदेश"
+
+#: functions/builder-functions.php:602
+msgid "Padding"
+msgstr "पद्मावती"
+
+#: functions/builder-functions.php:234
+msgid "Pinterest URL"
+msgstr "Pinterest के लिए URL"
+
+#: admin/emails-page.php:49
+msgid "Processing Order"
+msgstr "आदेश प्रसंस्करण"
+
+#: admin/emails-page.php:34
+msgid "Recipient"
+msgstr "रिसेप्टर"
+
+#: functions/builder-functions.php:238
+msgid "Reddit URL"
+msgstr "Reddit के लिए URL"
+
+#: functions/builder-functions.php:54
+msgid "Redo"
+msgstr "रेडू"
+
+#: admin/emails-page.php:63
+msgid "Refunded Order"
+msgstr "वापसी आदेश"
+
+#: functions/builder-functions.php:288 functions/builder-functions.php:289
+#: functions/builder-functions.php:290
+msgid "Repeat"
+msgstr "पुनरावृत्ति"
+
+#: admin/emails-page.php:75
+msgid "Reset Password"
+msgstr "पासवर्ड पुनर्स्थापित करें"
+
+#: functions/builder-functions.php:297 functions/builder-functions.php:457
+#: functions/builder-functions.php:488 functions/builder-functions.php:522
+#: functions/builder-functions.php:620 functions/builder-functions.php:645
+msgid "Right"
+msgstr "सही"
+
+#: functions/builder-functions.php:55 functions/builder-functions.php:668
+msgid "Save"
+msgstr "बचाव"
+
+#: plugin.php:145
+msgid "Saving"
+msgstr "बचत"
+
+#: plugin.php:181
+msgid "Send a Test Email"
+msgstr "एक परीक्षण ईमेल भेजें"
+
+#: functions/builder-functions.php:652
+msgid "Sizing"
+msgstr "आकार"
+
+#: functions/builder-functions.php:111
+msgid "Social"
+msgstr "सामाजिक"
+
+#: functions/builder-functions.php:325
+msgid "Solid"
+msgstr "मजबूत"
+
+#: functions/builder-functions.php:599
+msgid "Spacing"
+msgstr "स्पेसिंग"
+
+#: functions/builder-functions.php:548
+msgid "Table Cell Background Color"
+msgstr "टेबल सेल पृष्ठभूमि रंग"
+
+#: functions/builder-functions.php:556
+msgid "Table Cell Border Color"
+msgstr "टेबल सेल सीमा रंग"
+
+#: functions/builder-functions.php:530
+msgid "Table Cell Border Width"
+msgstr "टेबल सेल सीमा चौड़ाई"
+
+#: functions/builder-functions.php:552
+msgid "Table Cell Font Color"
+msgstr "टेबल सेल फ़ॉन्ट रंग"
+
+#: functions/builder-functions.php:504
+msgid "Table Cell Padding"
+msgstr "टेबल सेल पैडिंग"
+
+#: functions/builder-functions.php:420
+msgid "Table Design"
+msgstr "टेबल डिजाइन"
+
+#: functions/builder-functions.php:497
+msgid "Table Header Border Width"
+msgstr "टेबल शीर्ष सीमा चौड़ाई"
+
+#: functions/builder-functions.php:470
+msgid "Table Header Padding"
+msgstr "टेबल हेडर पैडिंग"
+
+#: functions/builder-functions.php:64
+msgid "Tablet View"
+msgstr "टैबलेट दृश्य"
+
+#: functions/builder-functions.php:117 functions/builder-functions.php:196
+#: functions/builder-functions.php:199
+msgid "Text"
+msgstr "लेखन"
+
+#: functions/builder-functions.php:565
+msgid "Text Alignment"
+msgstr "पाठ संरेखण"
+
+#: admin/options-page.php:16
+msgid "The default email address you'd like to have test emails sent to"
+msgstr "डिफ़ॉल्ट ईमेल पता आप परीक्षण ईमेल भेजने के लिए चाहते हैं"
+
+#: functions/builder-functions.php:242
+msgid "TikTok URL"
+msgstr "आउटडोर URL"
+
+#: functions/builder-functions.php:424
+msgid "Title Alignment"
+msgstr "Title संतुलन"
+
+#: functions/builder-functions.php:465
+msgid "Title Color"
+msgstr "शीर्षक रंग"
+
+#: functions/builder-functions.php:439
+msgid "Title Padding"
+msgstr "शीर्षक पैडिंग"
+
+#: functions/builder-functions.php:432
+msgid "Title Size"
+msgstr "शीर्षक आकार"
+
+#: functions/builder-functions.php:294 functions/builder-functions.php:354
+#: functions/builder-functions.php:445 functions/builder-functions.php:476
+#: functions/builder-functions.php:510 functions/builder-functions.php:608
+#: functions/builder-functions.php:633
+msgid "Top"
+msgstr "शीर्ष"
+
+#: functions/builder-functions.php:246
+msgid "Tumblr URL"
+msgstr "Tumblr के लिए URL"
+
+#: functions/builder-functions.php:250
+msgid "Twitter URL"
+msgstr "ट्विटर यूआरएल"
+
+#: functions/builder-functions.php:561
+msgid "Typography"
+msgstr "टाइपोग्राफी"
+
+#: functions/builder-functions.php:53
+msgid "Undo"
+msgstr "और भी"
+
+#: functions/builder-functions.php:353
+msgid "Vertical Alignment"
+msgstr "ऊर्ध्वाधर अनुकूलन"
+
+#: functions/builder-functions.php:254
+msgid "Vimeo URL"
+msgstr "Vimeo के URL"
+
+#: functions/builder-functions.php:662
+msgid "Width"
+msgstr "विशाल"
+
+#: functions/builder-functions.php:123
+msgid "Woo Customer Address"
+msgstr "Woo ग्राहक पते"
+
+#: functions/builder-functions.php:129
+msgid "Woo Customer Note"
+msgstr "Woo ग्राहक नोट"
+
+#: functions/builder-functions.php:135
+msgid "Woo Order Details"
+msgstr "Woo ऑर्डर विवरण"
+
+#: functions/builder-functions.php:141
+msgid "Woo Shop Address"
+msgstr "Woo Shop के बारे में"
+
+#: plugin.php:152
+msgid "Your Template is Ready to Download"
+msgstr "आपका टेम्पलेट डाउनलोड करने के लिए तैयार है"
+
+#: functions/builder-functions.php:258
+msgid "YouTube URL"
+msgstr "यूट्यूब URL"
+
+#. Name of the plugin
+msgid "Zesty Email Designer - Custom Email Template Designs for WooCommerce"
+msgstr "Zesty ईमेल डिजाइनर - Woocommerce के लिए कस्टम ईमेल टेम्पलेट डिजाइन"
+
+#. Author of the plugin
+msgid "Zesty Plugins"
+msgstr "प्लगइन्स"
